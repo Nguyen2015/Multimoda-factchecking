@@ -37,7 +37,8 @@ Parameters:
  --n_gpu:  number of GPUs (when having multiple GPUs)  
  
 # Publication 
-To be announced 
+Luu, S.T., Vo, T. & Nguyen, LM. MCVE: multimodal claim verification and explanation framework for fact-checking system. Multimedia Systems 31, 242 (2025). 
+https://doi.org/10.1007/s00530-025-01804-7
 
 # Contributor 
 Son Thanh Luu - Japan Advanced Institute of Science and Technology (JAIST)  
